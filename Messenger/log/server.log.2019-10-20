@@ -1,0 +1,199 @@
+2019-10-20 11:16:53,357 INFO homework_server.py Запущен сервер с параметрами: 
+порт для подключений: 7777  
+адрес с которого принимаются подключения: . 
+Если адрес не указан, принимаются соединения с любых адресов.
+2019-10-20 11:16:56,782 INFO homework_server.py Запущен сервер с параметрами: 
+порт для подключений: 7777  
+адрес с которого принимаются подключения: . 
+Если адрес не указан, принимаются соединения с любых адресов.
+2019-10-20 11:17:08,934 INFO homework_server.py Запущен сервер с параметрами: 
+порт для подключений: 7777  
+адрес с которого принимаются подключения: . 
+Если адрес не указан, принимаются соединения с любых адресов.
+2019-10-20 11:19:11,801 [INFO    ] homework_server.py Запущен сервер с параметрами: 
+порт для подключений: 7777  
+адрес с которого принимаются подключения: . 
+Если адрес не указан, принимаются соединения с любых адресов.
+2019-10-20 11:19:17,092 [INFO    ] homework_server.py Установлено соедение с ПК ('127.0.0.1', 38874)
+2019-10-20 11:19:17,093 [DEBUG   ] homework_server.py Получено сообщение {'action': 'presence', 'time': 1571552357.0929224, 'user': {'account_name': 'Екатерина Петровна'}}
+2019-10-20 11:19:17,093 [INFO    ] homework_server.py Разбор сообщения от клиента: {'action': 'presence', 'time': 1571552357.0929224, 'user': {'account_name': 'Екатерина Петровна'}}
+2019-10-20 11:19:17,093 [DEBUG   ] homework_server.py Проверка сообщения от клиента: {'action': 'presence', 'time': 1571552357.0929224, 'user': {'account_name': 'Екатерина Петровна'}} прошла успешно
+2019-10-20 11:19:17,093 [DEBUG   ] homework_server.py Сформирован ответ клиенту {'response': 200}
+2019-10-20 11:19:17,093 [INFO    ] homework_server.py Соединение с клиентом ('127.0.0.1', 38874) закрывается.
+2019-10-20 11:20:49,580 [INFO    ] homework_server.py Запущен сервер с параметрами: 
+порт для подключений: 7777  
+адрес с которого принимаются подключения: . 
+Если адрес не указан, принимаются соединения с любых адресов.50
+2019-10-20 11:20:53,696 [INFO    ] homework_server.py Установлено соедение с ПК ('127.0.0.1', 38882)50
+2019-10-20 11:20:53,697 [DEBUG   ] homework_server.py Получено сообщение {'action': 'presence', 'time': 1571552453.6966915, 'user': {'account_name': 'Екатерина Петровна'}}50
+2019-10-20 11:20:53,697 [INFO    ] homework_server.py Разбор сообщения от клиента: {'action': 'presence', 'time': 1571552453.6966915, 'user': {'account_name': 'Екатерина Петровна'}}50
+2019-10-20 11:20:53,697 [DEBUG   ] homework_server.py Проверка сообщения от клиента: {'action': 'presence', 'time': 1571552453.6966915, 'user': {'account_name': 'Екатерина Петровна'}} прошла успешно50
+2019-10-20 11:20:53,697 [DEBUG   ] homework_server.py Сформирован ответ клиенту {'response': 200}50
+2019-10-20 11:20:53,697 [INFO    ] homework_server.py Соединение с клиентом ('127.0.0.1', 38882) закрывается.50
+2019-10-20 11:22:11,266 [INFO    ] homework_server.py Запущен сервер с параметрами: 
+порт для подключений: 7777  
+адрес с которого принимаются подключения: . 
+Если адрес не указан, принимаются соединения с любых адресов.
+2019-10-20 11:22:15,777 [INFO    ] homework_server.py Установлено соедение с ПК ('127.0.0.1', 38886)
+2019-10-20 11:22:15,778 [DEBUG   ] homework_server.py Получено сообщение {'action': 'presence', 'time': 1571552535.7780807, 'user': {'account_name': 'Екатерина Петровна'}}
+2019-10-20 11:22:15,778 [INFO    ] homework_server.py Разбор сообщения от клиента: {'action': 'presence', 'time': 1571552535.7780807, 'user': {'account_name': 'Екатерина Петровна'}}
+2019-10-20 11:22:15,778 [DEBUG   ] homework_server.py Проверка сообщения от клиента: {'action': 'presence', 'time': 1571552535.7780807, 'user': {'account_name': 'Екатерина Петровна'}} прошла успешно
+2019-10-20 11:22:15,778 [DEBUG   ] homework_server.py Сформирован ответ клиенту {'response': 200}
+2019-10-20 11:22:15,778 [INFO    ] homework_server.py Соединение с клиентом ('127.0.0.1', 38886) закрывается.
+2019-10-20 11:23:47,481 [INFO    ] homework_server.py Запущен сервер с параметрами: 
+порт для подключений: 7777  
+адрес с которого принимаются подключения: . 
+Если адрес не указан, принимаются соединения с любых адресов.
+2019-10-20 11:23:49,651 [INFO    ] homework_server.py Установлено соедение с ПК ('127.0.0.1', 38890)
+2019-10-20 11:23:49,652 [DEBUG   ] homework_server.py Получено сообщение {'action': 'presence', 'time': 1571552629.6520033, 'user': {'account_name': 'Екатерина Петровна'}}
+2019-10-20 11:23:49,652 [INFO    ] homework_server.py Разбор сообщения от клиента: 
+{'action': 'presence', 'time': 1571552629.6520033, 'user': {'account_name': 'Екатерина Петровна'}}
+2019-10-20 11:23:49,652 [DEBUG   ] homework_server.py Проверка сообщения от клиента: 
+{'action': 'presence', 'time': 1571552629.6520033, 'user': {'account_name': 'Екатерина Петровна'}} 
+прошла успешно
+2019-10-20 11:23:49,652 [DEBUG   ] homework_server.py Сформирован ответ клиенту {'response': 200}
+2019-10-20 11:23:49,652 [INFO    ] homework_server.py Соединение с клиентом ('127.0.0.1', 38890) закрывается.
+2019-10-20 17:39:59,578 [INFO    ] homework_server.py Запущен сервер с параметрами: 
+порт для подключений: 7777  
+адрес с которого принимаются подключения: . 
+Если адрес не указан, принимаются соединения с любых адресов.
+2019-10-20 17:40:05,216 [INFO    ] homework_server.py Установлено соедение с ПК ('127.0.0.1', 56684)
+2019-10-20 17:40:05,216 [DEBUG   ] decorators.py Была вызвана функция create_presence c параметрами ('Екатерина Петровна',), {} 
+Вызов из модуля /mnt/1500/home/alexey/PycharmProjects/Python_lessons_advanced/Lesson_6/homework_client.py
+2019-10-20 17:40:05,216 [DEBUG   ] homework_server.py Получено сообщение 
+{'action': 'presence', 'time': 1571575205.2165747, 'user': {'account_name': 'Екатерина Петровна'}}
+2019-10-20 17:40:05,216 [DEBUG   ] decorators.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1571575205.2165747, 'user': {'account_name': 'Екатерина Петровна'}},), {} 
+Вызов из модуля /mnt/1500/home/alexey/PycharmProjects/Python_lessons_advanced/Lesson_6/homework_server.py
+2019-10-20 17:40:05,216 [INFO    ] homework_server.py Разбор сообщения от клиента: 
+{'action': 'presence', 'time': 1571575205.2165747, 'user': {'account_name': 'Екатерина Петровна'}}
+2019-10-20 17:40:05,217 [DEBUG   ] homework_server.py Проверка сообщения от клиента: 
+{'action': 'presence', 'time': 1571575205.2165747, 'user': {'account_name': 'Екатерина Петровна'}} 
+прошла успешно
+2019-10-20 17:40:05,217 [DEBUG   ] homework_server.py Сформирован ответ клиенту {'response': 200}
+2019-10-20 17:40:05,217 [INFO    ] homework_server.py Соединение с клиентом ('127.0.0.1', 56684) закрывается.
+2019-10-20 17:40:05,217 [DEBUG   ] decorators.py Была вызвана функция process_ans c параметрами ({'response': 200},), {} 
+Вызов из модуля /mnt/1500/home/alexey/PycharmProjects/Python_lessons_advanced/Lesson_6/homework_client.py
+2019-10-20 17:42:13,906 [DEBUG   ] decorators.py Была вызвана функция main c параметрами (), {} 
+Вызов из модуля /mnt/1500/home/alexey/PycharmProjects/Python_lessons_advanced/Lesson_6/homework_server.py
+2019-10-20 17:42:13,907 [INFO    ] homework_server.py Запущен сервер с параметрами: 
+порт для подключений: 7777  
+адрес с которого принимаются подключения: . 
+Если адрес не указан, принимаются соединения с любых адресов.
+2019-10-20 17:42:17,584 [DEBUG   ] decorators.py Была вызвана функция main c параметрами (), {} 
+Вызов из модуля /mnt/1500/home/alexey/PycharmProjects/Python_lessons_advanced/Lesson_6/homework_client.py
+2019-10-20 17:42:17,587 [INFO    ] homework_server.py Установлено соедение с ПК ('127.0.0.1', 56690)
+2019-10-20 17:42:17,587 [DEBUG   ] decorators.py Была вызвана функция create_presence c параметрами ('Екатерина Петровна',), {} 
+Вызов из модуля /mnt/1500/home/alexey/PycharmProjects/Python_lessons_advanced/Lesson_6/homework_client.py
+2019-10-20 17:42:17,587 [DEBUG   ] homework_server.py Получено сообщение 
+{'action': 'presence', 'time': 1571575337.5875072, 'user': {'account_name': 'Екатерина Петровна'}}
+2019-10-20 17:42:17,587 [DEBUG   ] decorators.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1571575337.5875072, 'user': {'account_name': 'Екатерина Петровна'}},), {} 
+Вызов из модуля /mnt/1500/home/alexey/PycharmProjects/Python_lessons_advanced/Lesson_6/homework_server.py
+2019-10-20 17:42:17,588 [INFO    ] homework_server.py Разбор сообщения от клиента: 
+{'action': 'presence', 'time': 1571575337.5875072, 'user': {'account_name': 'Екатерина Петровна'}}
+2019-10-20 17:42:17,588 [DEBUG   ] homework_server.py Проверка сообщения от клиента: 
+{'action': 'presence', 'time': 1571575337.5875072, 'user': {'account_name': 'Екатерина Петровна'}} 
+прошла успешно
+2019-10-20 17:42:17,588 [DEBUG   ] homework_server.py Сформирован ответ клиенту {'response': 200}
+2019-10-20 17:42:17,588 [INFO    ] homework_server.py Соединение с клиентом ('127.0.0.1', 56690) закрывается.
+2019-10-20 17:42:17,588 [DEBUG   ] decorators.py Была вызвана функция process_ans c параметрами ({'response': 200},), {} 
+Вызов из модуля /mnt/1500/home/alexey/PycharmProjects/Python_lessons_advanced/Lesson_6/homework_client.py
+2019-10-20 17:43:53,357 [DEBUG   ] decorators.py Была вызвана функция main c параметрами (), {} 
+Вызов из модуля __main__ 
+2019-10-20 17:43:53,359 [INFO    ] homework_server.py Запущен сервер с параметрами: 
+порт для подключений: 7777  
+адрес с которого принимаются подключения: . 
+Если адрес не указан, принимаются соединения с любых адресов.
+2019-10-20 17:43:56,673 [DEBUG   ] decorators.py Была вызвана функция main c параметрами (), {} 
+Вызов из модуля __main__ 
+2019-10-20 17:43:56,678 [INFO    ] homework_server.py Установлено соедение с ПК ('127.0.0.1', 56696)
+2019-10-20 17:43:56,678 [DEBUG   ] decorators.py Была вызвана функция create_presence c параметрами ('Екатерина Петровна',), {} 
+Вызов из модуля __main__ 
+2019-10-20 17:43:56,678 [DEBUG   ] homework_server.py Получено сообщение 
+{'action': 'presence', 'time': 1571575436.6783805, 'user': {'account_name': 'Екатерина Петровна'}}
+2019-10-20 17:43:56,678 [DEBUG   ] decorators.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1571575436.6783805, 'user': {'account_name': 'Екатерина Петровна'}},), {} 
+Вызов из модуля __main__ 
+2019-10-20 17:43:56,678 [INFO    ] homework_server.py Разбор сообщения от клиента: 
+{'action': 'presence', 'time': 1571575436.6783805, 'user': {'account_name': 'Екатерина Петровна'}}
+2019-10-20 17:43:56,678 [DEBUG   ] homework_server.py Проверка сообщения от клиента: 
+{'action': 'presence', 'time': 1571575436.6783805, 'user': {'account_name': 'Екатерина Петровна'}} 
+прошла успешно
+2019-10-20 17:43:56,678 [DEBUG   ] homework_server.py Сформирован ответ клиенту {'response': 200}
+2019-10-20 17:43:56,679 [INFO    ] homework_server.py Соединение с клиентом ('127.0.0.1', 56696) закрывается.
+2019-10-20 17:43:56,679 [DEBUG   ] decorators.py Была вызвана функция process_ans c параметрами ({'response': 200},), {} 
+Вызов из модуля __main__ 
+2019-10-20 17:51:38,660 [DEBUG   ] decorators.py Была вызвана функция main c параметрами: 
+ (), {} 
+Вызов из модуля __main__ Вызов из файл /mnt/1500/home/alexey/PycharmProjects/Python_lessons_advanced/Lesson_6/homework_server.py 
+2019-10-20 17:51:38,662 [INFO    ] homework_server.py Запущен сервер с параметрами: 
+порт для подключений: 7777  
+адрес с которого принимаются подключения: . 
+Если адрес не указан, принимаются соединения с любых адресов.
+2019-10-20 17:51:43,411 [INFO    ] homework_server.py Установлено соедение с ПК ('127.0.0.1', 56830)
+2019-10-20 17:51:43,411 [DEBUG   ] homework_server.py Получено сообщение 
+{'action': 'presence', 'time': 1571575903.411707, 'user': {'account_name': 'Екатерина Петровна'}}
+2019-10-20 17:51:43,412 [DEBUG   ] decorators.py Была вызвана функция process_client_message c параметрами: 
+ ({'action': 'presence', 'time': 1571575903.411707, 'user': {'account_name': 'Екатерина Петровна'}},), {} 
+Вызов из модуля __main__ Вызов из файл /mnt/1500/home/alexey/PycharmProjects/Python_lessons_advanced/Lesson_6/homework_server.py 
+2019-10-20 17:51:43,412 [INFO    ] homework_server.py Разбор сообщения от клиента: 
+{'action': 'presence', 'time': 1571575903.411707, 'user': {'account_name': 'Екатерина Петровна'}}
+2019-10-20 17:51:43,412 [DEBUG   ] homework_server.py Проверка сообщения от клиента: 
+{'action': 'presence', 'time': 1571575903.411707, 'user': {'account_name': 'Екатерина Петровна'}} 
+прошла успешно
+2019-10-20 17:51:43,412 [DEBUG   ] homework_server.py Сформирован ответ клиенту {'response': 200}
+2019-10-20 17:51:43,412 [INFO    ] homework_server.py Соединение с клиентом ('127.0.0.1', 56830) закрывается.
+2019-10-20 17:53:24,632 [DEBUG   ] decorators.py Была вызвана функция main c параметрами: 
+ (), {} 
+Вызов из модуля __main__ 
+Вызов из файл /mnt/1500/home/alexey/PycharmProjects/Python_lessons_advanced/Lesson_6/homework_server.py 
+2019-10-20 17:53:24,636 [INFO    ] homework_server.py Запущен сервер с параметрами: 
+порт для подключений: 7777  
+адрес с которого принимаются подключения: . 
+Если адрес не указан, принимаются соединения с любых адресов.
+2019-10-20 17:53:26,959 [INFO    ] homework_server.py Установлено соедение с ПК ('127.0.0.1', 56834)
+2019-10-20 17:53:26,960 [DEBUG   ] homework_server.py Получено сообщение 
+{'action': 'presence', 'time': 1571576006.9600968, 'user': {'account_name': 'Екатерина Петровна'}}
+2019-10-20 17:53:26,960 [DEBUG   ] decorators.py Была вызвана функция process_client_message c параметрами: 
+ ({'action': 'presence', 'time': 1571576006.9600968, 'user': {'account_name': 'Екатерина Петровна'}},), {} 
+Вызов из модуля __main__ 
+Вызов из файл /mnt/1500/home/alexey/PycharmProjects/Python_lessons_advanced/Lesson_6/homework_server.py 
+2019-10-20 17:53:26,960 [INFO    ] homework_server.py Разбор сообщения от клиента: 
+{'action': 'presence', 'time': 1571576006.9600968, 'user': {'account_name': 'Екатерина Петровна'}}
+2019-10-20 17:53:26,960 [DEBUG   ] homework_server.py Проверка сообщения от клиента: 
+{'action': 'presence', 'time': 1571576006.9600968, 'user': {'account_name': 'Екатерина Петровна'}} 
+прошла успешно
+2019-10-20 17:53:26,960 [DEBUG   ] homework_server.py Сформирован ответ клиенту {'response': 200}
+2019-10-20 17:53:26,960 [INFO    ] homework_server.py Соединение с клиентом ('127.0.0.1', 56834) закрывается.
+2019-10-20 17:56:40,567 [DEBUG   ] decorators.py Была вызвана функция main c параметрами: 
+ (), {} 
+Вызов из модуля __main__ 
+Вызов из файл /mnt/1500/home/alexey/PycharmProjects/Python_lessons_advanced/Lesson_6/homework_server.py 
+2019-10-20 17:56:40,567 [DEBUG   ] decorators.py Была вызвана функция create_arg_parser c параметрами: 
+ (), {} 
+Вызов из модуля comm.utilites 
+Вызов из файл /mnt/1500/home/alexey/PycharmProjects/Python_lessons_advanced/Lesson_6/homework_server.py 
+2019-10-20 17:56:40,568 [INFO    ] homework_server.py Запущен сервер с параметрами: 
+порт для подключений: 7777  
+адрес с которого принимаются подключения: . 
+Если адрес не указан, принимаются соединения с любых адресов.
+2019-10-20 17:56:44,313 [INFO    ] homework_server.py Установлено соедение с ПК ('127.0.0.1', 56850)
+2019-10-20 17:56:44,313 [DEBUG   ] decorators.py Была вызвана функция get_message c параметрами: 
+ (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56850)>,), {} 
+Вызов из модуля comm.utilites 
+Вызов из файл /mnt/1500/home/alexey/PycharmProjects/Python_lessons_advanced/Lesson_6/homework_server.py 
+2019-10-20 17:56:44,314 [DEBUG   ] homework_server.py Получено сообщение 
+{'action': 'presence', 'time': 1571576204.3135896, 'user': {'account_name': 'Екатерина Петровна'}}
+2019-10-20 17:56:44,314 [DEBUG   ] decorators.py Была вызвана функция process_client_message c параметрами: 
+ ({'action': 'presence', 'time': 1571576204.3135896, 'user': {'account_name': 'Екатерина Петровна'}},), {} 
+Вызов из модуля __main__ 
+Вызов из файл /mnt/1500/home/alexey/PycharmProjects/Python_lessons_advanced/Lesson_6/homework_server.py 
+2019-10-20 17:56:44,314 [INFO    ] homework_server.py Разбор сообщения от клиента: 
+{'action': 'presence', 'time': 1571576204.3135896, 'user': {'account_name': 'Екатерина Петровна'}}
+2019-10-20 17:56:44,314 [DEBUG   ] homework_server.py Проверка сообщения от клиента: 
+{'action': 'presence', 'time': 1571576204.3135896, 'user': {'account_name': 'Екатерина Петровна'}} 
+прошла успешно
+2019-10-20 17:56:44,314 [DEBUG   ] homework_server.py Сформирован ответ клиенту {'response': 200}
+2019-10-20 17:56:44,314 [DEBUG   ] decorators.py Была вызвана функция send_message c параметрами: 
+ (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56850)>, {'response': 200}), {} 
+Вызов из модуля comm.utilites 
+Вызов из файл /mnt/1500/home/alexey/PycharmProjects/Python_lessons_advanced/Lesson_6/homework_server.py 
+2019-10-20 17:56:44,314 [INFO    ] homework_server.py Соединение с клиентом ('127.0.0.1', 56850) закрывается.
